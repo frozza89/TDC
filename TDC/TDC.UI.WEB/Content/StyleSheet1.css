@@ -1,4 +1,9 @@
-﻿body {
-    background-color: #808080;
+﻿body{
+    margin:60px;
+}
+
+.Conteudo{
+    background-color:#cbc4c4;
+    text-align:center;
 
 }
